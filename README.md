@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @courtzexe, or Courtney
+- 👋 Hi, I’m @courtzexe, or Courtney <3
 - 🌱 I’m currently learning Python, Java, HTML, and more.
 - 💞️ I’m looking to collaborate on projects in order to better my skills and gain new interesting and fun experiences with varying types of projects. 
 - 📫 My LinkedIn is
